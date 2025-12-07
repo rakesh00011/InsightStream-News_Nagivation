@@ -1,0 +1,215 @@
+{
+  "savedArticles": [],
+  "categories": [
+    {
+      "id": "technology",
+      "name": "Technology"
+    },
+    {
+      "id": "sports",
+      "name": "Sports"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment"
+    },
+    {
+      "id": "health",
+      "name": "Health"
+    },
+    {
+      "id": "politics",
+      "name": "Politics"
+    },
+    {
+      "id": "invention",
+      "name": "Invention"
+    },
+    {
+      "id": "general",
+      "name": "General"
+    }
+  ],
+  "articles": [
+    {
+      "title": "India Launches Advanced 5G Network Across Major Cities - Updated 2025",
+      "description": "Telecom giants Jio and Airtel have successfully rolled out 5G services in Mumbai, Delhi, Bangalore, and Chennai. The new network promises speeds up to 10 times faster than 4G, revolutionizing mobile connectivity across India.",
+      "category": "technology",
+      "source": "Tech India Today",
+      "urlToImage": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f",
+      "publishedAt": "2025-12-05T10:00:00Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Indian Startup Develops AI-Powered Agriculture Solution",
+      "description": "Bangalore-based startup CropTech has created an AI system that helps farmers predict crop yields and detect diseases early. The solution has already been adopted by over 50,000 farmers across Karnataka and Maharashtra.",
+      "urlToImage": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+      "category": "technology",
+      "publishedAt": "2025-12-04T14:30:00Z",
+      "source": "Startup India News"
+    },
+    {
+      "id": "3",
+      "title": "ISRO Successfully Tests Reusable Launch Vehicle",
+      "description": "The Indian Space Research Organisation (ISRO) has successfully completed the third test of its Reusable Launch Vehicle (RLV), bringing India closer to affordable space missions. The test was conducted at the Sriharikota spaceport.",
+      "urlToImage": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7",
+      "category": "technology",
+      "publishedAt": "2025-12-03T09:15:00Z",
+      "source": "Space India"
+    },
+    {
+      "id": "4",
+      "title": "India Wins Cricket World Cup in Thrilling Final",
+      "description": "Team India defeated Australia by 6 wickets in a nail-biting final at the Narendra Modi Stadium in Ahmedabad. Virat Kohli's century and Jasprit Bumrah's 4-wicket haul led India to victory in front of 130,000 fans.",
+      "urlToImage": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+      "category": "sports",
+      "publishedAt": "2025-12-05T18:00:00Z",
+      "source": "Sports India"
+    },
+    {
+      "id": "5",
+      "title": "Neeraj Chopra Breaks World Record in Javelin Throw",
+      "description": "Olympic champion Neeraj Chopra has set a new world record with a throw of 93.07 meters at the Diamond League meet in Zurich. This achievement makes him the first Indian to hold a world record in athletics.",
+      "urlToImage": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211",
+      "category": "sports",
+      "publishedAt": "2025-12-04T16:45:00Z",
+      "source": "Athletics Weekly India"
+    },
+    {
+      "id": "6",
+      "title": "Indian Women's Hockey Team Qualifies for Olympics",
+      "description": "The Indian women's hockey team has secured their spot in the Paris Olympics after defeating China 3-1 in the final qualifier match. Captain Savita Punia's brilliant goalkeeping was instrumental in the victory.",
+      "urlToImage": "https://images.unsplash.com/photo-1530915365347-e35b749a0381",
+      "category": "sports",
+      "publishedAt": "2025-12-03T12:00:00Z",
+      "source": "Hockey India News"
+    },
+    {
+      "id": "7",
+      "title": "Bollywood Film 'Jawan' Crosses ₹1000 Crore Worldwide",
+      "description": "Shah Rukh Khan's latest blockbuster 'Jawan' has become the highest-grossing Indian film of all time, crossing the ₹1000 crore mark globally within just 3 weeks of release. The action thriller has broken multiple box office records.",
+      "urlToImage": "https://images.unsplash.com/photo-1478720568477-152d9b164e26",
+      "category": "entertainment",
+      "publishedAt": "2025-12-05T11:30:00Z",
+      "source": "Bollywood Times"
+    },
+    {
+      "id": "8",
+      "title": "AR Rahman to Compose Music for Hollywood Epic",
+      "description": "Oscar-winning composer AR Rahman has been signed to create the soundtrack for a major Hollywood historical epic. This marks his biggest international project since 'Slumdog Millionaire' and will feature a 100-piece orchestra.",
+      "urlToImage": "https://images.unsplash.com/photo-1511379938547-c1f69419868d",
+      "category": "entertainment",
+      "publishedAt": "2025-12-04T13:20:00Z",
+      "source": "Entertainment India"
+    },
+    {
+      "id": "9",
+      "title": "Indian Web Series Wins International Emmy Award",
+      "description": "The critically acclaimed series 'Delhi Crime' has won the International Emmy Award for Best Drama Series. The show, based on true events, has been praised for its powerful storytelling and exceptional performances.",
+      "urlToImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
+      "category": "entertainment",
+      "publishedAt": "2025-12-03T15:00:00Z",
+      "source": "OTT India News"
+    },
+    {
+      "id": "10",
+      "title": "India Launches National Digital Health Mission",
+      "description": "The government has launched a comprehensive digital health platform that will provide every citizen with a unique health ID. The system will store medical records, enable telemedicine, and streamline healthcare delivery across the country.",
+      "urlToImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d",
+      "category": "health",
+      "publishedAt": "2025-12-05T09:00:00Z",
+      "source": "Health India Today"
+    },
+    {
+      "id": "11",
+      "title": "AIIMS Develops Breakthrough Cancer Treatment",
+      "description": "Researchers at AIIMS Delhi have developed a new immunotherapy treatment that shows 85% success rate in treating advanced lung cancer. The treatment uses modified immune cells and is significantly more affordable than existing therapies.",
+      "urlToImage": "https://images.unsplash.com/photo-1579154204601-01588f351e67",
+      "category": "health",
+      "publishedAt": "2025-12-04T10:30:00Z",
+      "source": "Medical India"
+    },
+    {
+      "id": "12",
+      "title": "Yoga and Ayurveda Recognized by WHO",
+      "description": "The World Health Organization has officially recognized traditional Indian practices of Yoga and Ayurveda as effective complementary healthcare systems. India's Ministry of AYUSH celebrates this global acknowledgment of ancient wellness practices.",
+      "urlToImage": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b",
+      "category": "health",
+      "publishedAt": "2025-12-03T14:00:00Z",
+      "source": "Wellness India"
+    },
+    {
+      "id": "13",
+      "title": "Parliament Passes Historic Women's Reservation Bill",
+      "description": "The Indian Parliament has unanimously passed the Women's Reservation Bill, reserving 33% of seats in Lok Sabha and state assemblies for women. This landmark legislation is being hailed as a major step towards gender equality in Indian politics.",
+      "urlToImage": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620",
+      "category": "politics",
+      "publishedAt": "2025-12-05T16:00:00Z",
+      "source": "Political India"
+    },
+    {
+      "id": "14",
+      "title": "India Assumes G20 Presidency with Focus on Climate",
+      "description": "India has officially taken over the G20 presidency with a strong emphasis on climate action, sustainable development, and digital transformation. Prime Minister announced ambitious goals for renewable energy and green hydrogen production.",
+      "urlToImage": "https://images.unsplash.com/photo-1589519160732-57fc498494f8",
+      "category": "politics",
+      "publishedAt": "2025-12-04T11:00:00Z",
+      "source": "Global India News"
+    },
+    {
+      "id": "15",
+      "title": "New Education Policy Shows Promising Results",
+      "description": "Two years after implementation, India's National Education Policy 2020 is showing positive outcomes with improved learning outcomes, increased enrollment in vocational courses, and better integration of technology in classrooms across 28 states.",
+      "urlToImage": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+      "category": "politics",
+      "publishedAt": "2025-12-03T08:30:00Z",
+      "source": "Education India"
+    },
+    {
+      "id": "16",
+      "title": "Indian Scientists Develop Low-Cost Water Purification System",
+      "description": "IIT Madras researchers have invented a solar-powered water purification device that costs only ₹2000 and can provide clean drinking water to rural communities. The innovation uses nanotechnology and has already been deployed in 500 villages.",
+      "urlToImage": "https://images.unsplash.com/photo-1581093458791-9d42e1c5e2e5",
+      "category": "invention",
+      "publishedAt": "2025-12-05T12:00:00Z",
+      "source": "Innovation India"
+    },
+    {
+      "id": "17",
+      "title": "Bengaluru Startup Creates Biodegradable Plastic Alternative",
+      "description": "A Bengaluru-based startup has developed a completely biodegradable alternative to plastic made from agricultural waste. The material decomposes within 90 days and is already being used by major FMCG companies for packaging.",
+      "urlToImage": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b",
+      "category": "invention",
+      "publishedAt": "2025-12-04T15:00:00Z",
+      "source": "Green Tech India"
+    },
+    {
+      "id": "18",
+      "title": "Indian Engineer Invents Affordable Prosthetic Limb",
+      "description": "A Chennai-based engineer has designed a 3D-printed prosthetic limb that costs only ₹5000, making it accessible to millions of Indians. The device uses AI to adapt to the user's movements and has won international recognition.",
+      "urlToImage": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56",
+      "category": "invention",
+      "publishedAt": "2025-12-03T10:45:00Z",
+      "source": "Medical Innovation India"
+    },
+    {
+      "id": "19",
+      "title": "India's GDP Growth Surpasses Expectations at 7.8%",
+      "description": "India's economy has grown at 7.8% in the last quarter, exceeding all predictions and making it the fastest-growing major economy in the world. Strong performance in manufacturing, services, and digital sectors drove the growth.",
+      "urlToImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3",
+      "category": "general",
+      "publishedAt": "2025-12-05T07:00:00Z",
+      "source": "Economic Times India"
+    },
+    {
+      "id": "20",
+      "title": "Mumbai Metro Expansion Connects 15 New Stations",
+      "description": "The Mumbai Metro has inaugurated 15 new stations across the city, significantly improving connectivity and reducing travel time for millions of commuters. The expansion includes underground and elevated corridors covering 45 kilometers.",
+      "urlToImage": "https://images.unsplash.com/photo-1542401886-65d6c61db217",
+      "category": "general",
+      "publishedAt": "2025-12-04T06:30:00Z",
+      "source": "Mumbai News"
+    }
+  ]
+}
